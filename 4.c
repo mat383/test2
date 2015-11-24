@@ -2,7 +2,8 @@
 #include <stdlib.h>
  
 int main()
-{//test
+{
+	//test2
    char ch, source_file[20], target_file[20];
    FILE *source, *target;
  
