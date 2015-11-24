@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //branch:master
+=======
+//branch:experimental
+>>>>>>> remotes/origin/experimental
 #include <stdio.h>
 #include <stdlib.h>
  
